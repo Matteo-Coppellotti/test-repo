@@ -5,6 +5,8 @@
 #include<string>
 using std::string;
 
+#prova
+
 int main() {
     int x;
     game battagliaNavale;
